@@ -1,0 +1,62 @@
+
+.headthree{
+    display: inline;
+}
+.clr-blue{
+    color: #f9745d;
+}
+.clr-orange{
+    color: orange;
+}
+.personal{
+    display: flex;
+    margin-bottom: 80px;
+}
+.div-personal{
+    width: 50%;
+    margin-left: 50px;
+}
+.iam{
+    
+    text-align: justify;
+    width: 50%;
+    padding-left: 50px;
+}
+.iam img{
+    width: 80%;
+}
+#design-box{
+   
+    width: 250px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 50px salmon;
+    margin-right: 100px;
+    text-align: center;
+    padding: 20px;
+}
+#web{
+
+    width: 250px;
+    margin-left: 400px;
+    box-shadow: 10px 10px 50px salmon;
+    margin-right: 100px;
+    text-align: center;
+    padding: 20px;
+}
+#android{
+
+    width: 250px;
+    margin-right: 150px;
+    box-shadow: 10px 10px 50px salmon;
+    margin-right: 100px;
+    text-align: center;
+    padding: 20px;
+
+}
+.div-blank{
+    width: 20%;
+}
+footer{
+    text-align: center;
+    margin-bottom: 30px;
+}
